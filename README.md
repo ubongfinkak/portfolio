@@ -1,8 +1,8 @@
 # UBONG PORTFOLIO
 
-A portfolio website template for campers
+A portfolio website
 
-![Ubong-Finkak](jane-shot.png)
+![Ubong-Finkak](assets/images/UB.jpeg)
 
 ## Author
 
